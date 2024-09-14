@@ -15,5 +15,5 @@
 - missingno
 - phik
 - sklearn
-- seaborn
+- lightgbm
 - catboost
